@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/FairyGUIUnity/Library
+/FairyGUIUnity/obj
+/FGUIProject/.objs
