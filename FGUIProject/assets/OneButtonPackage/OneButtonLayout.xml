@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1920,1080">
+<component size="1920,1080" opaque="false">
+  <controller name="Page" pages="0,,1," selected="0"/>
   <displayList>
-    <component id="n0_fpgu" name="n0" src="mtkz5" fileName="Button1.xml" xy="1816,1056">
+    <component id="n0_fpgu" name="n0" src="mtkz5" fileName="Button1.xml" xy="1806,1007">
       <Button title="测试"/>
     </component>
-    <component id="n1_fpgu" name="n1" src="mtkz5" fileName="Button1.xml" xy="1140,446" size="449,186">
+    <component id="n1_fpgu" name="n1" src="mtkz5" fileName="Button1.xml" xy="-580,91" size="449,186">
       <Button title="11 "/>
     </component>
+    <list id="n5_au95" name="n5" xy="1356,107" size="206,300" pageController="Page" layout="pagination" overflow="scroll" scroll="horizontal" scrollBarFlags="8" lineGap="3" colGap="4" defaultItem="ui://r3s6sxotmtkz5">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n8_p1rk" name="n8" xy="807,372" size="200,300" overflow="scroll" defaultItem="ui://r3s6sxotmtkz5">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n9_p1rk" name="n9" src="p1rk11" fileName="Button2.xml" xy="206,386"/>
+    <movieclip id="n12_p1rk" name="n12" src="au95i" fileName="images/quan.jta" xy="160,731"/>
+    <movieclip id="n16_p1rk" name="n16" src="p1rk14" fileName="mao.jta" xy="383,622"/>
   </displayList>
+  <transition name="start" autoPlayDelay="1">
+    <item time="6" type="XY" target="n1_fpgu" tween="true" startValue="-580,91" endValue="285,80" duration="24" ease="Back.Out"/>
+  </transition>
 </component>

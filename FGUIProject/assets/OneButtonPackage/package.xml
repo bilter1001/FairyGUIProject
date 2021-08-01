@@ -3,6 +3,28 @@
   <resources>
     <component id="mtkz4" name="OneButtonLayout.xml" path="/" exported="true"/>
     <component id="mtkz5" name="Button1.xml" path="/"/>
+    <component id="au958" name="WindowFrame1.xml" path="/"/>
+    <image id="au959" name="0.png" path="/images/"/>
+    <image id="au95a" name="1.png" path="/images/"/>
+    <image id="au95b" name="2.png" path="/images/"/>
+    <image id="au95c" name="3.png" path="/images/" scale9grid="25,25,50,50"/>
+    <image id="au95d" name="4.png" path="/images/"/>
+    <image id="au95e" name="5.png" path="/images/"/>
+    <image id="au95f" name="7.png" path="/images/"/>
+    <image id="au95g" name="8.png" path="/images/"/>
+    <image id="au95h" name="btnimage.png" path="/images/"/>
+    <movieclip id="au95i" name="quan.jta" path="/images/" atlas="alone"/>
+    <component id="p1rks" name="ScrollBar_VT_arrow1.xml" path="/scrollbars/"/>
+    <component id="p1rkt" name="ScrollBar_VT_arrow2.xml" path="/scrollbars/"/>
+    <component id="p1rku" name="ScrollBar_VT_grip.xml" path="/scrollbars/"/>
+    <component id="p1rkv" name="ScrollBar_VT.xml" path="/scrollbars/" exported="true"/>
+    <component id="p1rkw" name="ScrollBar_HZ_arrow1.xml" path="/scrollbars/"/>
+    <component id="p1rkx" name="ScrollBar_HZ_arrow2.xml" path="/scrollbars/"/>
+    <component id="p1rky" name="ScrollBar_HZ_grip.xml" path="/scrollbars/"/>
+    <component id="p1rkz" name="ScrollBar_HZ.xml" path="/scrollbars/" exported="true"/>
+    <component id="p1rk11" name="Button2.xml" path="/"/>
+    <movieclip id="p1rk12" name="MovieClip1.jta" path="/"/>
+    <movieclip id="p1rk14" name="mao.jta" path="/" atlas="alone"/>
   </resources>
-  <publish name="" path="D:\GitHub\FairyGUIProject\FairyGUIUnity\Assets\Resources\FairyGUI" packageCount="2"/>
+  <publish name=""/>
 </packageDescription>

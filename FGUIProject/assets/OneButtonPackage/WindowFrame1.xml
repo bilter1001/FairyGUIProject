@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="92,123" extention="Label" initName="frame">
+  <displayList>
+    <text id="n0_au95" name="title" xy="0,2" size="92,19" fontSize="12" align="center" vAlign="middle" autoSize="none" singleLine="true" text="">
+      <relation target="" sidePair="width-width"/>
+    </text>
+    <image id="n3_au95" name="n3" src="au95g" fileName="images/8.png" xy="-1,20" size="93,104"/>
+    <graph id="n1_au95" name="dragArea" xy="0,0" size="92,20" tooltips="sasfasf " type="rect" fillColor="#ff33ff33">
+      <relation target="" sidePair="width-width"/>
+    </graph>
+    <graph id="n2_au95" name="contentArea" xy="0,21" size="92,103" lineColor="#ff330000" fillColor="#ff33ff33">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <image id="n5_au95" name="n5" src="au959" fileName="images/0.png" xy="74,1" size="18,20"/>
+  </displayList>
+</component>
