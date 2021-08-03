@@ -63,3 +63,5 @@ crashlytics-build.properties
 /FGUIProject/.objs
 /FairyGUIUnity/Logs
 /Examples-UIProject/.objs
+/FairyGUIUnity/Logs
+/FairyGUIUnity/Temp
